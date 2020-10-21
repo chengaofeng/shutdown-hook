@@ -1,0 +1,45 @@
+!.mvn/wrapper/maven-wrapper.jar
+
+### NODE vue
+.DS_Store
+mode_modules
+/dist
+
+### local env files
+.env.local
+.evn.*.local
+
+# log file
+npm-debug.log*
+yarn-debg.log*
+yarn-error.log*
+
+### STS ##
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### Intellij IDEA
+.idea
+*.iws
+*.iml
+*.ipr
+
+### target
+target
+
+### log
+log
+logs
+*.log
+
+
+### swagger generator
+docs
+
+
+
